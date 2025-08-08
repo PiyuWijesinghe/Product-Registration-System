@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/product-management-system.git
+git clone https://github.com/PiyuWijesinghe/Product-Registration-System.git
 cd Product-Registration-System
 ```
 
